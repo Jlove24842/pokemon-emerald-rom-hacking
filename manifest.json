@@ -1,4 +1,5 @@
-{ 
+{   
+  "manifest_version": 3,
   "name": "RomhackingEditor",
   "short_name": "Editor",
   "theme_color": "#fff",
